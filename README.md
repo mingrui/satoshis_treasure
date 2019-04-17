@@ -7,7 +7,7 @@ Creators:
 https://twitter.com/DoveyWan  
 https://twitter.com/wheatpond  
 
-Wiki:
+Wiki:  
 https://elementaryvoice.com/satoshistreasure/doku.php
 
 Reddit:  
