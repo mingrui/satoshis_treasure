@@ -10,9 +10,10 @@ Twitter:
 https://twitter.com/toshitreasure
 
 Telegram:  
+https://t.me/satoshistreasure
 
 Discord:  
-  
+Satoshi's Treasure ARG
 
 |Name|URL|Key|Release Date|Decryption Method|
 |---|---|---|---|---|
