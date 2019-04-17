@@ -11,7 +11,8 @@ https://twitter.com/wheatpond
 
 Players:  
 
-
+Website:  
+https://www.satoshistreasure.club/
 
 Wiki:  
 https://elementaryvoice.com/satoshistreasure/doku.php
