@@ -3,6 +3,10 @@ Resources for Satoshi's Treasure Game
 
 https://satoshistreasure.xyz/
 
+Creators:  
+https://twitter.com/DoveyWan  
+https://twitter.com/wheatpond  
+
 Reddit:  
 https://www.reddit.com/r/satoshis_treasure/
 
