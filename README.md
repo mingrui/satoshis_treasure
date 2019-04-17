@@ -3,6 +3,8 @@ Resources for Satoshi's Treasure Game
 
 https://satoshistreasure.xyz/
 
+# Links
+
 Creators:  
 https://twitter.com/DoveyWan  
 https://twitter.com/wheatpond  
@@ -21,6 +23,11 @@ https://t.me/satoshistreasure
 
 Discord:  
 Satoshi's Treasure ARG (Invitation Closed, Admin is kicking hangers-on)
+
+# FAQ
+
+
+# Keys
 
 |Name|URL|Key|Release Date|Decryption Method|
 |---|---|---|---|---|
