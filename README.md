@@ -3,12 +3,12 @@ Resources for Satoshi's Treasure Game
 
 https://satoshistreasure.xyz/
 
-Twitter:
+Twitter:  
 https://twitter.com/toshitreasure
 
-Telegram:
+Telegram:  
 
-Discord:
+Discord:  
 
 |Name|URL|Key|Release Date|Decryption Method|
 |---|---|---|---|---|
