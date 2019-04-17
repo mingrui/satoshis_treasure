@@ -9,6 +9,10 @@ Creators:
 https://twitter.com/DoveyWan  
 https://twitter.com/wheatpond  
 
+Players:  
+
+
+
 Wiki:  
 https://elementaryvoice.com/satoshistreasure/doku.php
 
@@ -24,6 +28,9 @@ https://t.me/satoshistreasure
 Discord:  
 Satoshi's Treasure ARG (Invitation Closed, Admin is kicking hangers-on)  
 There is an EV team discord floating around...
+
+Instagram:  
+http://instagram.com/satoshistreasure
 
 # FAQ
 
