@@ -7,6 +7,9 @@ Creators:
 https://twitter.com/DoveyWan  
 https://twitter.com/wheatpond  
 
+Wiki:
+https://elementaryvoice.com/satoshistreasure/doku.php
+
 Reddit:  
 https://www.reddit.com/r/satoshis_treasure/
 
