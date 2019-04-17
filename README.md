@@ -13,7 +13,7 @@ Telegram:
 https://t.me/satoshistreasure
 
 Discord:  
-Satoshi's Treasure ARG
+Satoshi's Treasure ARG (Invitation Closed, Admin is kicking hangers-on)
 
 |Name|URL|Key|Release Date|Decryption Method|
 |---|---|---|---|---|
