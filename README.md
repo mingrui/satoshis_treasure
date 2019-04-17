@@ -1,7 +1,10 @@
-# satoshis_treasure
+# Satoshi's Treasure
 Resources for Satoshi's Treasure Game
 
 https://satoshistreasure.xyz/
+
+Reddit:  
+https://www.reddit.com/r/satoshis_treasure/
 
 Twitter:  
 https://twitter.com/toshitreasure
@@ -9,6 +12,7 @@ https://twitter.com/toshitreasure
 Telegram:  
 
 Discord:  
+  
 
 |Name|URL|Key|Release Date|Decryption Method|
 |---|---|---|---|---|
