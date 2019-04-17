@@ -22,7 +22,8 @@ Telegram:
 https://t.me/satoshistreasure
 
 Discord:  
-Satoshi's Treasure ARG (Invitation Closed, Admin is kicking hangers-on)
+Satoshi's Treasure ARG (Invitation Closed, Admin is kicking hangers-on)  
+There is an EV team discord floating around...
 
 # FAQ
 
