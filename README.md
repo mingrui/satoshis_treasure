@@ -8,6 +8,7 @@ https://satoshistreasure.xyz/
 Creators:  
 https://twitter.com/DoveyWan  
 https://twitter.com/wheatpond  
+https://twitter.com/secparam  
 
 Players:  
 
