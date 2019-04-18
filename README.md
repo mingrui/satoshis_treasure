@@ -28,10 +28,13 @@ https://t.me/satoshistreasure
 
 Discord:  
 Satoshi's Treasure ARG (Invitation Closed, Admin is kicking hangers-on)  
-There is an EV team discord floating around...
+EV Satoshi's Treasure Clan  
 
 Instagram:  
 http://instagram.com/satoshistreasure
+
+Tools:  
+https://satoshistreasure.xyz/ssss
 
 # FAQ
 
