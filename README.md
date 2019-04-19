@@ -13,7 +13,9 @@ https://twitter.com/secparam
 Players:  
 
 Website:  
-https://www.satoshistreasure.club/
+https://www.satoshistreasure.club/ 信息  
+https://satoshistreasure.xyz/ssss 合并钥匙  
+http://onfray.info/ 卫星信息监控  
 
 Wiki:  
 https://elementaryvoice.com/satoshistreasure/doku.php
@@ -35,7 +37,7 @@ Instagram:
 http://instagram.com/satoshistreasure
 
 Tools:  
-https://satoshistreasure.xyz/ssss
+
 
 # FAQ
 
