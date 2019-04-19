@@ -13,7 +13,7 @@ https://twitter.com/secparam
 Players:  
 
 Website:  
-https://www.satoshistreasure.club/ 
+https://www.satoshistreasure.club/  
 https://satoshistreasure.xyz/ssss Shamir tool to combine keys  
 http://onfray.info/ Blockstream satellite info  
 
