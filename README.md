@@ -13,9 +13,9 @@ https://twitter.com/secparam
 Players:  
 
 Website:  
-https://www.satoshistreasure.club/ 信息  
-https://satoshistreasure.xyz/ssss 合并钥匙  
-http://onfray.info/ 卫星信息监控  
+https://www.satoshistreasure.club/ 
+https://satoshistreasure.xyz/ssss Shamir tool to combine keys  
+http://onfray.info/ Blockstream satellite info  
 
 Wiki:  
 https://elementaryvoice.com/satoshistreasure/doku.php
@@ -34,13 +34,11 @@ Satoshi's Treasure ARG (Invitation Closed, Admin is kicking hangers-on)
 EV Satoshi's Treasure Clan  
 
 Instagram:  
-http://instagram.com/satoshistreasure
-
-Tools:  
-
+http://instagram.com/satoshistreasure  
 
 # FAQ
-
+1. Are there more keys released than shown on the official website?  
+A. Yes. There are hidden keys already release. Confirmed by Eric on telegram.
 
 # Keys
 
