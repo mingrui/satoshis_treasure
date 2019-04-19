@@ -27,7 +27,8 @@ Twitter:
 https://twitter.com/toshitreasure
 
 Telegram:  
-https://t.me/satoshistreasure
+https://t.me/satoshistreasure  
+https://t.me/SatoshiTreasureDE Germany Group  
 
 Discord:  
 Satoshi's Treasure ARG (Invitation Closed, Admin is kicking hangers-on)  
