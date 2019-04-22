@@ -43,8 +43,9 @@ A. Yes. There are hidden keys already release. Confirmed by Eric on telegram.
 
 # Keys
 
-|Name|URL|Key|Release Date|Decryption Method|
+|Name|URL|Pass|Release Date|Decryption Method|
 |---|---|---|---|---|
 |The Jade Key|https://satoshistreasure.xyz/k1 | orbit | 4/16/2019 |Offline QR, [Dictionary Attack](https://gist.github.com/johncantrell97/bbab69bbde03d22eb8323fd94cd46db0)|
 |The Bismuth Key|https://satoshistreasure.xyz/k2 | cosmos |4/16/2019|Offline QR, Dictionary Attack|
 |Mamoru's Key|https://satoshistreasure.xyz/k3 | blackhole |4/16/2019|Offline QR, Dictionary Attack|
+|The Leporine Key |https://satoshistreasure.xyz/6WskbAMc8U6m3B68DdHL2QQ822odpPG |a dim light illuminated the darkness, casting shadows on the walls and revealing a single key hanging from a thread in the middle of the vault|4/21/2019|[Zipped gif file](https://www.reddit.com/r/satoshis_treasure/comments/bfu6n3/leporine_key/)|
