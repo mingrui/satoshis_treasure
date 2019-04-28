@@ -11,6 +11,7 @@ https://twitter.com/wheatpond
 https://twitter.com/secparam  
 
 Players:  
+[Magellan Clan](https://www.magellan.world/?fbclid=IwAR3sXOUAHBg6vcjgZCHhBCoL7SRyTS6BnjLVMGZWzKifVzHanC-WbqMae1k) They have issued their own token, STM, for trading keys.
 
 Website:  
 https://www.satoshistreasure.club/  
