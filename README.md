@@ -5,37 +5,37 @@ https://satoshistreasure.xyz/
 
 # Links
 
-Creators:  
+### Creators:  
 https://twitter.com/DoveyWan  
 https://twitter.com/wheatpond  
 https://twitter.com/secparam  
 
-Players:  
+### Players:  
 [Magellan Clan](https://www.magellan.world/?fbclid=IwAR3sXOUAHBg6vcjgZCHhBCoL7SRyTS6BnjLVMGZWzKifVzHanC-WbqMae1k) They have issued their own token, STM, for trading keys.
 
-Website:  
+### Website:  
 https://www.satoshistreasure.club/  
 https://satoshistreasure.xyz/ssss Shamir tool to combine keys  
 http://onfray.info/ Blockstream satellite info  
 
-Wiki:  
+### Wiki:  
 https://elementaryvoice.com/satoshistreasure/doku.php
 
-Reddit:  
+### Reddit:  
 https://www.reddit.com/r/satoshis_treasure/
 
-Twitter:  
+### Twitter:  
 https://twitter.com/toshitreasure
 
-Telegram:  
+### Telegram:  
 https://t.me/satoshistreasure  
 https://t.me/SatoshiTreasureDE Germany Group  
 
-Discord:  
+### Discord:  
 Satoshi's Treasure ARG (Invitation Closed, Admin is kicking hangers-on)  
 EV Satoshi's Treasure Clan  
 
-Instagram:  
+### Instagram:  
 http://instagram.com/satoshistreasure  
 
 # FAQ
